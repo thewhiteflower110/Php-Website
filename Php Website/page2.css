@@ -1,0 +1,35 @@
+table{margin-left: auto;
+margin-right: auto;
+//margin-top: auto;
+text-align: center;
+//border-width: thin;
+//border-style: solid;
+//border-color: black;
+}
+td{
+border-bottom: 1px solid rgb(0, 0, 0); 
+}
+tr:hover{
+background-color: rgba(179,179,179,0.7);
+}
+div{
+	//overflow: auto;
+	height: 600px;
+	width: 300x;
+	margin: auto;
+	margin-top:150px;
+	margin-right:300px;
+	margin-left:300px;
+	margin-bottom:150px;
+	background-color: rgba(0,51,102,0.4);
+	padding: 20px;
+	text-align: center;
+	color: white;
+	}
+	body{
+	color: blue;
+	background-image: url("im.jpg");
+	background-repeat: no-repeat;
+	background-size: 1300px 700px;
+	}
+	
